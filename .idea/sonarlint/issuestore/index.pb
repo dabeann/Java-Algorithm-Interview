@@ -17,3 +17,5 @@ B
 src/week4/a14.java,0\0\0056e2e96784ec0e2e2b5d28da6c244592d126fd
 `
 0src/week4/두_정렬_리스트의_병합_14.java,9\d\9d62833359cdfd9c8ad96e5b3ba39a610456dd37
+Y
+)src/week4/역순_연결_리스트_15.java,5\c\5c34c67e4e57d9cf24d202f67d4eb05938a94380
