@@ -21,3 +21,5 @@ S
 #src/week4/두_수의_덧셈_16.java,7\6\76ca608dc5a60ce56a8a03d3458e8f496f57a675
 Y
 )src/week5/페어의_노드_스왑_17.java,9\b\9bfe0aeb04e240b985565924bcf02b1bf37dbde1
+Y
+)src/week5/홀짝_연결_리스트_18.java,6\8\6893f9c10c62267aada5e3a089ce6681238af548
