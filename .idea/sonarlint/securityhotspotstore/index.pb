@@ -23,3 +23,5 @@ Y
 )src/week5/페어의_노드_스왑_17.java,9\b\9bfe0aeb04e240b985565924bcf02b1bf37dbde1
 Y
 )src/week5/홀짝_연결_리스트_18.java,6\8\6893f9c10c62267aada5e3a089ce6681238af548
+\
+,src/week5/역순_연결_리스트_II_19.java,a\f\af72021b445565c623608aa676a22afffdb6cce6
