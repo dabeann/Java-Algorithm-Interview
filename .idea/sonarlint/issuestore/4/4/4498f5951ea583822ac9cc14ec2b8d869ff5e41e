@@ -1,0 +1,5 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«êùÖ8©æçşî1J$0fda417c-41e6-485b-b52a-18ae12801d5e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ƒæ†üÿÿÿÿ8¬æçşî1J$25f6fadd-bd39-46c7-be4a-854b28b4cacc
+˜
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8«íÁÿî1J$d95736f0-55d5-44ba-898d-56ba25bf23d5
