@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔèÍ€ûÿÿÿÿ8³…íòð1J$54f1be5a-4cd3-464f-8f75-f1baad0f2820
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÀÚóJ$446b63a5-b788-4075-8561-4280182d8ff0
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8Ý•ïòð1J$7548066a-e46c-491c-91de-b1d3b8b5aae5
+É
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÙ§ôùÿÿÿÿ8Ê…îòð1J$671841bf-48e5-47e9-ab4a-80df81242db6
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8á•ïòð1J$60733996-b64b-4411-ac8e-4e8f1bbfeff2

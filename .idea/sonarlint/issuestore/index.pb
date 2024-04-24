@@ -33,3 +33,7 @@ O
 src/week6/일일_온도_22.java,4\4\4498f5951ea583822ac9cc14ec2b8d869ff5e41e
 `
 0src/week7/큐를_이용한_스택_구현_23.java,4\8\48498f63b9e70baaa514e4d21cbca68131b9e7fd
+]
+-src/week7/스택을_이용한_큐_구현.java,5\c\5ce6771a6fadb3adc66f58c29ea2ab61600a361a
+`
+0src/week7/스택을_이용한_큐_구현_24.java,d\c\dc2d2b83da6af28a9bdad9cbd3c071fa532c6831
