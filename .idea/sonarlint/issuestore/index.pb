@@ -37,3 +37,5 @@ O
 0src/week7/스택을_이용한_큐_구현_24.java,d\c\dc2d2b83da6af28a9bdad9cbd3c071fa532c6831
 V
 &src/week7/원형_큐_디자인_25.java,d\c\dca5edadbcb5b6afbe299bb85af12a119b013947
+]
+-src/week7/원형_큐_디자인_25_배열.java,5\c\5c0fac58f1fccfc1e2a6b0521fa4e352f2a4108a

@@ -1,5 +1,5 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ό΅ιΐ8κώσπ1J$1d3b41cf-7fd1-4bde-beea-8403065f6d1c
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ΐΪσJ$9efa3863-c338-4294-b121-72fd66e462a3
-	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ΰΐ–8θ®¨ ρ1J$a7292bb2-300c-4a4f-a279-29ed40e0a6fd
-	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­›…8ι®¨ ρ1J$33d1672d-c305-4d08-806e-d39175d981a2
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ό΅ιΐ8κώσπ1J$f7a4abee-8e35-4169-900b-f11031909cfb
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ΐΪσJ$63c12bc5-82e0-4aa8-8771-8e476ce3344a
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ΰΐ–8αόΑρ1
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­›…8βόΑρ1
