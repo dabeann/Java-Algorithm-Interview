@@ -41,3 +41,5 @@ V
 -src/week7/원형_큐_디자인_25_배열.java,5\c\5c0fac58f1fccfc1e2a6b0521fa4e352f2a4108a
 Y
 )src/week8/원형_데크_디자인_26.java,0\a\0ac78b2786cec7e1d6685d85e15d9a687aa7ccef
+^
+.src/week8/k개_정렬_리스트_병합_27.java,e\1\e11cd003b063e31bbe862980293c57f7c6808886
