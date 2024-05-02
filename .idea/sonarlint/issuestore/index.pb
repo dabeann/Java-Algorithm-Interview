@@ -43,3 +43,7 @@ Y
 )src/week8/원형_데크_디자인_26.java,0\a\0ac78b2786cec7e1d6685d85e15d9a687aa7ccef
 ^
 .src/week8/k개_정렬_리스트_병합_27.java,e\1\e11cd003b063e31bbe862980293c57f7c6808886
+h
+8src/week8/원점에서_가장_가까운_k개의_점.java,5\0\503d4d8e74a20534141384be64f80f242659a614
+k
+;src/week8/원점에서_가장_가까운_k개의_점_28.java,f\e\fee2c71796a12e1ccd06a6219c0efb3547d0db78
