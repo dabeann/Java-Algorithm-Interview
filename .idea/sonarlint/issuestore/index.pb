@@ -47,3 +47,5 @@ k
 ;src/week8/원점에서_가장_가까운_k개의_점_28.java,f\e\fee2c71796a12e1ccd06a6219c0efb3547d0db78
 L
 src/week9/더_맵게_29.java,1\5\157310c2f82e180bb27ff23aac8b9f5e4fa8de92
+U
+%src/week9/해시맵_디자인_30.java,6\8\6832daaffac55692398c61e3df6c2c9a63d7d3b7
