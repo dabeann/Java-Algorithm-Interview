@@ -49,3 +49,5 @@ L
 src/week9/더_맵게_29.java,1\5\157310c2f82e180bb27ff23aac8b9f5e4fa8de92
 U
 %src/week9/해시맵_디자인_30.java,6\8\6832daaffac55692398c61e3df6c2c9a63d7d3b7
+O
+src/week9/보석과_돌_31.java,2\6\266a8203818a3c60866a61e07279029e81c84396
