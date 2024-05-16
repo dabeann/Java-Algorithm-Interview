@@ -1,0 +1,5 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©è–„øÿÿÿÿ8ó‚Üú÷1J$c8e7d4ae-7ec9-41ba-97fc-d010c4ec1fbf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îš˜ùÿÿÿÿ8÷‚Üú÷1J$35453c65-c481-4e12-8493-268d8f4c75e2
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(„Ş´¥8Ë÷äú÷1

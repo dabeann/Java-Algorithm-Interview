@@ -55,3 +55,5 @@ s
 Csrc/week10/중복_문자_없는_가장_긴_부분_문자열_32.java,f\f\ffd21c0f0d3b28896bac2c2aa5863561e8b51e24
 _
 /src/week10/상위_k_빈도_엘리먼트_33.java,a\0\a09add93f7f45fd277af36415235e0de7eb1f784
+]
+-src/week10/완주하지_못한_선수_34.java,2\3\23dec5c52ab899ed08db5b0d2a4773bc70e75e59
