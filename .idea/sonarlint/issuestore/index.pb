@@ -61,3 +61,5 @@ P
  src/week11/섬의_개수_35.java,8\6\86f4c9cec7c881e9636cdf66cf04639528a0d712
 ]
 -src/week11/전화번호_문자_조합_36.java,5\8\5876c8e8402d43d96ba52da34754cd7864a248b9
+I
+src/week11/순열_37.java,7\9\7935befc98d44e509ee9b38aa19d3dc2944cb305
