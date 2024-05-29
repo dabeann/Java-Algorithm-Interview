@@ -65,3 +65,5 @@ I
 src/week11/순열_37.java,7\9\7935befc98d44e509ee9b38aa19d3dc2944cb305
 I
 src/week12/조합_38.java,c\8\c868647f6eee7da1fe23ed87fe430b947f04d5dc
+P
+ src/week12/조합의_합_39.java,6\d\6d35e83fd6c383066fa003c17c482bdb524a2cf3
