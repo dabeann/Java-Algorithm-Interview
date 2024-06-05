@@ -71,3 +71,5 @@ O
 src/week12/부분집합_40.java,6\c\6c7336bbd15aa7ff21bc525bcccdd5ae6a853812
 S
 #src/week13/일정_재구성_41.java,6\b\6b1ce689ae2503599859e3831693563ca3aff322
+P
+ src/week13/여행_경로_42.java,0\a\0a271bf45405e34938329d0569cf5980592b6f85
