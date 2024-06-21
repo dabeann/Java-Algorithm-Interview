@@ -85,3 +85,5 @@ a
 1src/week15/이진_트리의_최대_깊이_47.java,e\1\e1b3b007111582f4849d62abc8823d4762a256ad
 Z
 *src/week15/이진_트리의_직경_48.java,a\8\a832ca4372f1d58cdfb15249ea24300e7b6cb0e5
+b
+2src/week15/가장_긴_동일_값의_경로_49.java,d\c\dce0dc8ec37b46be2394191517fdd390dcacd050
