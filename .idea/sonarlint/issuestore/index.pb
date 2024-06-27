@@ -91,3 +91,5 @@ W
 'src/week16/이진_트리_반전_50.java,e\a\ea2b676dc2f920d6ea38b40c6f0e72bac2cf9ddd
 e
 5src/week16/배열의_k번째_큰_엘리먼트_60.java,5\0\50f56b0c29d251b6c539a96ee2993540392a1525
+S
+#src/week16/트라이_구현_62.java,f\e\fea291199c6a5c821efe2c220a20475e8a4ecd29
