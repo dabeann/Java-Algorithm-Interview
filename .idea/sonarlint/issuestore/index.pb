@@ -93,3 +93,5 @@ e
 5src/week16/배열의_k번째_큰_엘리먼트_60.java,5\0\50f56b0c29d251b6c539a96ee2993540392a1525
 S
 #src/week16/트라이_구현_62.java,f\e\fea291199c6a5c821efe2c220a20475e8a4ecd29
+P
+ src/week16/이진_검색_70.java,2\3\23319942e16918ba419b220f64aefb7bb5b8cc71
